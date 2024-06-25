@@ -169,103 +169,133 @@
   "products": [
     {
       "id": 1,
-      "name": "Pork Salted Bellies",
-      "price": 442,
-      "quantity": 16,
-      "thumbnail": "http://dummyimage.com/213x100.png/dddddd/000000",
-      "status": true,
-      "createdAt": 1610632995000,
-      "modifiedAt": 1615620960000
+      "name": "Remera Oversize Soff",
+      "price": 31500,
+      "stock": 5,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-50b-3ea81842ad21d5f05517156576820270-640-0.webp",
+      "on_sale": true,
+      "sizes": ["s", "m", "l"],
+      "featured": false
     },
     {
       "id": 2,
-      "name": "Grapes - Black",
-      "price": 893,
-      "quantity": 22,
-      "thumbnail": "http://dummyimage.com/151x100.png/ff4444/ffffff",
-      "status": false,
-      "createdAt": 1615796160000,
-      "modifiedAt": 1615796160000
+      "name": "Remera Oversize Race",
+      "price": 32000,
+      "stock": 9,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-82-1-bfe592689b87a37fbf17156579063957-640-0.webp",
+      "on_sale": true,
+      "sizes": ["s", "m", "l"],
+      "featured": false
     },
     {
       "id": 3,
-      "name": "Nantucket - 518ml",
-      "price": 693,
-      "quantity": 41,
-      "thumbnail": "http://dummyimage.com/125x100.png/dddddd/000000",
-      "status": false,
-      "createdAt": 1614190320000,
-      "modifiedAt": 1614190320000
+      "name": "Remera Oversize Fox",
+      "price": 30000,
+      "stock": 3,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-46-ece0c6e2c22f62cc4e17156588385629-640-0.webp",
+      "on_sale": true,
+      "sizes": [ "s", "m", "l"],
+      "featured": false
     },
     {
       "id": 4,
-      "name": "Onions - White",
-      "price": 472,
-      "quantity": 67,
-      "thumbnail": "http://dummyimage.com/117x100.png/cc0000/ffffff",
-      "status": false,
-      "createdAt": 1609751340000,
-      "modifiedAt": 1617525900000
+      "name": "Remera Oversize Dimm",
+      "price": 25000,
+      "stock": 3,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-79-932f10fdfdb68ec3f617156590080324-640-0.webp",
+      "on_sale": true,
+      "sizes": ["s", "m", "l"],
+      "featured": false
     },
     {
       "id": 5,
-      "name": "Lamb - Whole, Fresh",
-      "price": 157,
-      "quantity": 83,
-      "thumbnail": "http://dummyimage.com/160x100.png/dddddd/000000",
-      "status": true,
-      "createdAt": 1620154080000,
-      "modifiedAt": 1620154080000
+      "name": "Remera Oversize Hac",
+      "price": 28000,
+      "stock": 3,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-52-300x300-bd4f7acca1bede56f917156587678590-640-0.webp",
+      "on_sale": true,
+      "sizes": ["s", "m", "l"],
+      "featured": false
     },
     {
       "id": 6,
-      "name": "Carrots - Purple, Organic",
-      "price": 816,
-      "quantity": 37,
-      "thumbnail": "http://dummyimage.com/241x100.png/5fa2dd/ffffff",
-      "status": false,
-      "createdAt": 1619270940000,
-      "modifiedAt": 1619443380000
+      "name": "Camisa Big TT",
+      "price": 36000,
+      "stock": 7,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/a2c-5205c5d58d9eaebad917156566618186-640-0.webp",
+      "on_sale": true,
+      "sizes": ["xs", "s", "m", "l"],
+      "featured": false
     },
     {
       "id": 7,
-      "name": "Bag - Regular Kraft 20 Lb",
-      "price": 157,
-      "quantity": 60,
-      "thumbnail": "http://dummyimage.com/156x100.png/cc0000/ffffff",
-      "status": false,
-      "createdAt": 1614098400000,
-      "modifiedAt": "2021-04-16"
+      "name": "Musculosa Tussyco",
+      "price": 24000,
+      "stock": 3,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-25-b12a91b4700d7e875917156571878805-640-0.webp",
+      "on_sale": true,
+      "sizes": ["xs", "s", "m", "l", "xl"],
+      "featured": false
     },
     {
       "id": 8,
-      "name": "Flour - Bran, Red",
-      "price": 970,
-      "quantity": 40,
-      "thumbnail": "http://dummyimage.com/157x100.png/5fa2dd/ffffff",
-      "status": false,
-      "createdAt": 1617954000000,
-      "modifiedAt": 1619964420000
+      "name": "Musculosa Rest",
+      "price": 19000,
+      "stock": 20,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-23b-027df8ae29229b1e3117156576291324-640-0.webp",
+      "on_sale": true,
+      "sizes": ["xs", "s", "m", "l", "xl"],
+      "featured": false
     },
     {
       "id": 9,
-      "name": "Bread - Bistro Sour",
-      "price": 112,
-      "quantity": 77,
-      "thumbnail": "http://dummyimage.com/147x100.png/dddddd/000000",
-      "status": false,
-      "createdAt": 1612357500000,
-      "modifiedAt": 1614956760000
+      "name": "Musculosa Makemoney",
+      "price": 18500,
+      "stock": 12,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-19c-9b0a8e32f1855ee83917156578868313-640-0.webp",
+      "on_sale": true,
+      "sizes": ["xs", "s", "m", "l", "xl"],
+      "featured": false
     },
     {
       "id": 10,
-      "name": "Soup - Campbells Bean Medley",
-      "price": 353,
-      "quantity": 40,
-      "thumbnail": "http://dummyimage.com/203x100.png/ff4444/ffffff",
-      "status": false,
-      "createdAt": 1615146960000,
-      "modifiedAt": 1615146960000
+      "name": "Buzo Combinado World",
+      "price": 51000,
+      "stock": 5,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/buzo-cuello-redondo-word-699b111d455c24a60b17183138338541-640-0.webp",
+      "on_sale": true,
+      "sizes": ["s", "m", "l", "xl"],
+      "featured": false
+    },
+    {
+      "id": 11,
+      "name": "Buzo Oversize Montreal",
+      "price": 55000,
+      "stock": 11,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/buzo-beige-delantero-1-090081089d07042eac17156607909501-640-0.webp",
+      "on_sale": true,
+      "sizes": ["m", "l", "xl", "xxl"],
+      "featured": false
+    },
+    {
+      "id": 12,
+      "name": "Buzo Oversize World",
+      "price": 55000,
+      "stock": 10,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/blanco-delantero-ed9a39c3709bf75e3117156595381017-640-0.webp",
+      "on_sale": true,
+      "sizes": ["m", "l", "xl", "xxl"],
+      "featured": false
+    },
+    {
+      "id": 13,
+      "name": "Buzo Oversize Stay",
+      "price": 55000,
+      "stock": 5,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/buzo-89e-0e71227185da4785bf17156601310567-640-0.webp",
+      "on_sale": true,
+      "sizes": ["m", "l", "xl", "xxl"],
+      "featured": false
     }
   ]
 }

@@ -215,7 +215,7 @@
       "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-52-300x300-bd4f7acca1bede56f917156587678590-640-0.webp",
       "on_sale": true,
       "sizes": ["s", "m", "l"],
-      "featured": false
+      "featured": true
     },
     {
       "id": 6,
@@ -296,6 +296,56 @@
       "on_sale": true,
       "sizes": ["m", "l", "xl", "xxl"],
       "featured": false
+    },
+    {
+      "id": 14,
+      "name": "Musculosa Makemoney",
+      "price": 18500,
+      "stock": 12,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-19c-9b0a8e32f1855ee83917156578868313-640-0.webp",
+      "on_sale": true,
+      "sizes": ["xs", "s", "m", "l", "xl"],
+      "featured": true
+    },
+    {
+      "id": 15,
+      "name": "Buzo Combinado World",
+      "price": 51000,
+      "stock": 5,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/buzo-cuello-redondo-word-699b111d455c24a60b17183138338541-640-0.webp",
+      "on_sale": true,
+      "sizes": ["s", "m", "l", "xl"],
+      "featured": false
+    },
+    {
+      "id": 16,
+      "name": "Buzo Oversize Montreal",
+      "price": 55000,
+      "stock": 11,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/buzo-beige-delantero-1-090081089d07042eac17156607909501-640-0.webp",
+      "on_sale": true,
+      "sizes": ["m", "l", "xl", "xxl"],
+      "featured": true
+    },
+    {
+      "id": 17,
+      "name": "Buzo Oversize World",
+      "price": 55000,
+      "stock": 10,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/blanco-delantero-ed9a39c3709bf75e3117156595381017-640-0.webp",
+      "on_sale": true,
+      "sizes": ["m", "l", "xl", "xxl"],
+      "featured": true
+    },
+    {
+      "id": 18,
+      "name": "Buzo Oversize Stay",
+      "price": 55000,
+      "stock": 5,
+      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/buzo-89e-0e71227185da4785bf17156601310567-640-0.webp",
+      "on_sale": true,
+      "sizes": ["m", "l", "xl", "xxl"],
+      "featured": true
     }
   ]
 }

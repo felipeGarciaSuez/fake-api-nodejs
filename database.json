@@ -16,7 +16,8 @@
       "birthday": "1994-03-23",
       "status": true,
       "createdAt": 1609483221000,
-      "modifiedAt": 1609483221000
+      "modifiedAt": 1609483221000,
+      "userRole": "admin"
     },
     {
       "id": 2,
@@ -31,7 +32,8 @@
       "birthday": "2002-03-11",
       "status": false,
       "createdAt": 1617440961000,
-      "modifiedAt": 1618301961000
+      "modifiedAt": 1618301961000,
+      "userRole": "seller"
     },
     {
       "id": 3,
@@ -46,7 +48,8 @@
       "birthday": "1997-09-29",
       "status": false,
       "createdAt": 1615745961000,
-      "modifiedAt": 1615976361000
+      "modifiedAt": 1615976361000,
+      "userRole": "seller"
     },
     {
       "id": 4,
@@ -61,7 +64,8 @@
       "birthday": "2004-10-01",
       "status": false,
       "createdAt": 1610281342000,
-      "modifiedAt": 1619283693000
+      "modifiedAt": 1619283693000,
+      "userRole": "seller"
     },
     {
       "id": 5,
@@ -76,7 +80,8 @@
       "birthday": "1999-01-30",
       "status": true,
       "createdAt": 1614362898000,
-      "modifiedAt": 1615410795000
+      "modifiedAt": 1615410795000,
+      "userRole": "seller"
     },
     {
       "id": 6,
@@ -91,7 +96,8 @@
       "birthday": "1996-01-29",
       "status": false,
       "createdAt": 1621283400000,
-      "modifiedAt": 1621528590000
+      "modifiedAt": 1621528590000,
+      "userRole": "seller"
     },
     {
       "id": 7,
@@ -106,7 +112,8 @@
       "birthday": "1998-05-19",
       "status": true,
       "createdAt": 1614957930000,
-      "modifiedAt": 1614957930000
+      "modifiedAt": 1614957930000,
+      "userRole": "seller"
     },
     {
       "id": 8,
@@ -121,7 +128,8 @@
       "birthday": "2007-09-24",
       "status": true,
       "createdAt": 1613665586000,
-      "modifiedAt": 1613665586000
+      "modifiedAt": 1613665586000,
+      "userRole": "seller"
     },
     {
       "id": 9,
@@ -136,7 +144,8 @@
       "birthday": "2007-03-01",
       "status": true,
       "createdAt": 1612782806000,
-      "modifiedAt": 1612782806000
+      "modifiedAt": 1612782806000,
+      "userRole": "seller"
     },
     {
       "id": 10,
@@ -151,7 +160,8 @@
       "birthday": "2000-05-04",
       "status": true,
       "createdAt": 1615245193000,
-      "modifiedAt": 1616246055000
+      "modifiedAt": 1616246055000,
+      "userRole": "buyer"
     }
   ],
   "products": [

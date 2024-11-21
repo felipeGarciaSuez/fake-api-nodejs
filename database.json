@@ -185,190 +185,250 @@
       "id": 1,
       "name": "Remera Oversize Soff",
       "price": 31500,
-      "stock": 5,
       "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-50b-3ea81842ad21d5f05517156576820270-640-0.webp",
       "on_sale": true,
-      "sizes": ["s", "m", "l"],
+      "sizes": [
+        { "size": "s", "stock": 2 },
+        { "size": "m", "stock": 2 },
+        { "size": "l", "stock": 1 }
+      ],
       "featured": false
     },
     {
       "id": 2,
       "name": "Remera Oversize Race",
       "price": 32000,
-      "stock": 9,
       "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-82-1-bfe592689b87a37fbf17156579063957-640-0.webp",
       "on_sale": true,
-      "sizes": ["s", "m", "l"],
+      "sizes": [
+        { "size": "s", "stock": 3 },
+        { "size": "m", "stock": 3 },
+        { "size": "l", "stock": 3 }
+      ],
       "featured": false
     },
     {
       "id": 3,
       "name": "Remera Oversize Fox",
       "price": 30000,
-      "stock": 3,
       "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-46-ece0c6e2c22f62cc4e17156588385629-640-0.webp",
       "on_sale": true,
-      "sizes": [ "s", "m", "l"],
+      "sizes": [
+        { "size": "s", "stock": 1 },
+        { "size": "m", "stock": 1 },
+        { "size": "l", "stock": 1 }
+      ],
       "featured": false
     },
     {
       "id": 4,
       "name": "Remera Oversize Dimm",
       "price": 25000,
-      "stock": 3,
       "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-79-932f10fdfdb68ec3f617156590080324-640-0.webp",
       "on_sale": true,
-      "sizes": ["s", "m", "l"],
+      "sizes": [
+        { "size": "s", "stock": 1 },
+        { "size": "m", "stock": 1 },
+        { "size": "l", "stock": 1 }
+      ],
       "featured": false
     },
     {
       "id": 5,
       "name": "Remera Oversize Hac",
       "price": 28000,
-      "stock": 3,
       "image": "https://acdn.mitiendanube.com/stores/004/690/284/products/remera-52b-b28e2b654537518df717156587680215-640-0.webp",
       "on_sale": true,
-      "sizes": ["s", "m", "l"],
+      "sizes": [
+        { "size": "s", "stock": 1 },
+        { "size": "m", "stock": 1 },
+        { "size": "l", "stock": 1 }
+      ],
       "featured": true
     },
     {
       "id": 6,
       "name": "Camisa Big TT",
       "price": 36000,
-      "stock": 7,
       "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/a2c-5205c5d58d9eaebad917156566618186-640-0.webp",
       "on_sale": true,
-      "sizes": ["xs", "s", "m", "l"],
+      "sizes": [
+        { "size": "xs", "stock": 1 },
+        { "size": "s", "stock": 2 },
+        { "size": "m", "stock": 2 },
+        { "size": "l", "stock": 2 }
+      ],
       "featured": false
     },
     {
       "id": 7,
       "name": "Musculosa Tussyco",
       "price": 24000,
-      "stock": 3,
       "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-25-b12a91b4700d7e875917156571878805-640-0.webp",
       "on_sale": true,
-      "sizes": ["xs", "s", "m", "l", "xl"],
+      "sizes": [
+        { "size": "xs", "stock": 1 },
+        { "size": "s", "stock": 1 },
+        { "size": "m", "stock": 1 },
+        { "size": "l", "stock": 1 },
+        { "size": "xl", "stock": 1 }
+      ],
       "featured": false
     },
     {
       "id": 8,
       "name": "Musculosa Rest",
       "price": 19000,
-      "stock": 20,
       "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-23b-027df8ae29229b1e3117156576291324-640-0.webp",
       "on_sale": true,
-      "sizes": ["xs", "s", "m", "l", "xl"],
+      "sizes": [
+        { "size": "xs", "stock": 4 },
+        { "size": "s", "stock": 4 },
+        { "size": "m", "stock": 4 },
+        { "size": "l", "stock": 4 },
+        { "size": "xl", "stock": 4 }
+      ],
       "featured": false
     },
     {
       "id": 9,
       "name": "Musculosa Makemoney",
       "price": 18500,
-      "stock": 12,
       "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-19c-9b0a8e32f1855ee83917156578868313-640-0.webp",
       "on_sale": true,
-      "sizes": ["xs", "s", "m", "l", "xl"],
+      "sizes": [
+        { "size": "xs", "stock": 2 },
+        { "size": "s", "stock": 2 },
+        { "size": "m", "stock": 2 },
+        { "size": "l", "stock": 2 },
+        { "size": "xl", "stock": 2 }
+      ],
       "featured": false
     },
     {
       "id": 10,
       "name": "Remera Oversize Always",
       "price": 38000,
-      "stock": 5,
       "image": "https://acdn.mitiendanube.com/stores/004/690/284/products/blanca-trasera-2-2b146ab2382fac2f0a17320381152671-640-0.webp",
       "on_sale": true,
-      "sizes": ["s", "m", "l", "xl"],
+      "sizes": [
+        { "size": "s", "stock": 2 },
+        { "size": "m", "stock": 1 },
+        { "size": "l", "stock": 1 },
+        { "size": "xl", "stock": 1 }
+      ],
       "featured": true
     },
     {
       "id": 11,
       "name": "Buzo Oversize Montreal",
       "price": 55000,
-      "stock": 11,
       "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/buzo-beige-delantero-1-090081089d07042eac17156607909501-640-0.webp",
       "on_sale": true,
-      "sizes": ["m", "l", "xl", "xxl"],
-      "featured": false
-    },
-    {
-      "id": 12,
-      "name": "Buzo Oversize World",
-      "price": 55000,
-      "stock": 10,
-      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/blanco-delantero-ed9a39c3709bf75e3117156595381017-640-0.webp",
-      "on_sale": true,
-      "sizes": ["m", "l", "xl", "xxl"],
+      "sizes": [
+        { "size": "m", "stock": 3 },
+        { "size": "l", "stock": 4 },
+        { "size": "xl", "stock": 2 },
+        { "size": "xxl", "stock": 2 }
+      ],
       "featured": false
     },
     {
       "id": 13,
       "name": "Buzo Cuello Redondo Candy",
       "price": 68000,
-      "stock": 5,
       "image": "https://acdn.mitiendanube.com/stores/004/690/284/products/buzo-cemento-delantero-2-b528c4b545f82737da17292641753050-640-0.webp",
       "on_sale": true,
-      "sizes": ["m", "l", "xl", "xxl"],
+      "sizes": [
+        { "size": "m", "stock": 2 },
+        { "size": "l", "stock": 2 },
+        { "size": "xl", "stock": 1 },
+        { "size": "xxl", "stock": 0 }
+      ],
       "featured": true
     },
     {
       "id": 14,
       "name": "Buzo Oversize Closing",
       "price": 72000,
-      "stock": 12,
       "image": "https://acdn.mitiendanube.com/stores/004/690/284/products/negro-trasero-3-9187ce8ca68b5ca58e17199499556006-640-0.webp",
       "on_sale": true,
-      "sizes": ["xs", "s", "m", "l", "xl"],
+      "sizes": [
+        { "size": "xs", "stock": 2 },
+        { "size": "s", "stock": 3 },
+        { "size": "m", "stock": 3 },
+        { "size": "l", "stock": 2 },
+        { "size": "xl", "stock": 2 }
+      ],
       "featured": true
     },
     {
       "id": 15,
       "name": "Buzo Combinado World",
       "price": 51000,
-      "stock": 5,
       "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/buzo-cuello-redondo-word-699b111d455c24a60b17183138338541-640-0.webp",
       "on_sale": true,
-      "sizes": ["s", "m", "l", "xl"],
+      "sizes": [
+        { "size": "s", "stock": 1 },
+        { "size": "m", "stock": 2 },
+        { "size": "l", "stock": 1 },
+        { "size": "xl", "stock": 1 }
+      ],
       "featured": false
     },
     {
       "id": 16,
       "name": "Croptop Oversize Illicit",
       "price": 30000,
-      "stock": 11,
       "image": "https://acdn.mitiendanube.com/stores/004/690/284/products/negro-delantero-3-4a003a613a578672fe17198662352909-640-0.webp",
       "on_sale": true,
-      "sizes": ["m", "l", "xl", "xxl"],
+      "sizes": [
+        { "size": "m", "stock": 3 },
+        { "size": "l", "stock": 3 },
+        { "size": "xl", "stock": 2 },
+        { "size": "xxl", "stock": 3 }
+      ],
       "featured": true
     },
     {
       "id": 17,
       "name": "Buzo Oversize World",
       "price": 55000,
-      "stock": 10,
       "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/blanco-delantero-ed9a39c3709bf75e3117156595381017-640-0.webp",
       "on_sale": true,
-      "sizes": ["m", "l", "xl", "xxl"],
+      "sizes": [
+        { "size": "m", "stock": 3 },
+        { "size": "l", "stock": 3 },
+        { "size": "xl", "stock": 2 },
+        { "size": "xxl", "stock": 2 }
+      ],
       "featured": true
     },
     {
       "id": 18,
       "name": "Buzo Oversize Stay",
       "price": 55000,
-      "stock": 5,
       "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/buzo-89e-0e71227185da4785bf17156601310567-640-0.webp",
       "on_sale": true,
-      "sizes": ["m", "l", "xl", "xxl"],
+      "sizes": [
+        { "size": "m", "stock": 2 },
+        { "size": "l", "stock": 2 },
+        { "size": "xl", "stock": 1 },
+        { "size": "xxl", "stock": 0 }
+      ],
       "featured": true
     },
     {
       "id": 19,
       "name": "Remera Oversize Choc",
       "price": 38000,
-      "stock": 5,
       "image": "https://acdn.mitiendanube.com/stores/004/690/284/products/marron-trasera-b0c5ed3d8e03339b8f17199465576876-640-0.webp",
       "on_sale": true,
-      "sizes": ["m", "l", "xl"],
+      "sizes": [
+        { "size": "m", "stock": 2 },
+        { "size": "l", "stock": 2 },
+        { "size": "xl", "stock": 1 }
+      ],
       "featured": false
     }
   ]

@@ -273,13 +273,13 @@
     },
     {
       "id": 10,
-      "name": "Buzo Combinado World",
-      "price": 51000,
+      "name": "Remera Oversize Always",
+      "price": 38000,
       "stock": 5,
-      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/buzo-cuello-redondo-word-699b111d455c24a60b17183138338541-640-0.webp",
+      "image": "https://acdn.mitiendanube.com/stores/004/690/284/products/blanca-trasera-2-2b146ab2382fac2f0a17320381152671-640-0.webp",
       "on_sale": true,
       "sizes": ["s", "m", "l", "xl"],
-      "featured": false
+      "featured": true
     },
     {
       "id": 11,
@@ -303,20 +303,20 @@
     },
     {
       "id": 13,
-      "name": "Buzo Oversize Stay",
-      "price": 55000,
+      "name": "Buzo Cuello Redondo Candy",
+      "price": 68000,
       "stock": 5,
-      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/buzo-89e-0e71227185da4785bf17156601310567-640-0.webp",
+      "image": "https://acdn.mitiendanube.com/stores/004/690/284/products/buzo-cemento-delantero-2-b528c4b545f82737da17292641753050-640-0.webp",
       "on_sale": true,
       "sizes": ["m", "l", "xl", "xxl"],
-      "featured": false
+      "featured": true
     },
     {
       "id": 14,
-      "name": "Musculosa Makemoney",
-      "price": 18500,
+      "name": "Buzo Oversize Closing",
+      "price": 72000,
       "stock": 12,
-      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/remera-19c-9b0a8e32f1855ee83917156578868313-640-0.webp",
+      "image": "https://acdn.mitiendanube.com/stores/004/690/284/products/negro-trasero-3-9187ce8ca68b5ca58e17199499556006-640-0.webp",
       "on_sale": true,
       "sizes": ["xs", "s", "m", "l", "xl"],
       "featured": true
@@ -333,10 +333,10 @@
     },
     {
       "id": 16,
-      "name": "Buzo Oversize Montreal",
-      "price": 55000,
+      "name": "Croptop Oversize Illicit",
+      "price": 30000,
       "stock": 11,
-      "image": "https://dcdn.mitiendanube.com/stores/004/690/284/products/buzo-beige-delantero-1-090081089d07042eac17156607909501-640-0.webp",
+      "image": "https://acdn.mitiendanube.com/stores/004/690/284/products/negro-delantero-3-4a003a613a578672fe17198662352909-640-0.webp",
       "on_sale": true,
       "sizes": ["m", "l", "xl", "xxl"],
       "featured": true
@@ -360,6 +360,16 @@
       "on_sale": true,
       "sizes": ["m", "l", "xl", "xxl"],
       "featured": true
+    },
+    {
+      "id": 19,
+      "name": "Remera Oversize Choc",
+      "price": 38000,
+      "stock": 5,
+      "image": "https://acdn.mitiendanube.com/stores/004/690/284/products/marron-trasera-b0c5ed3d8e03339b8f17199465576876-640-0.webp",
+      "on_sale": true,
+      "sizes": ["m", "l", "xl"],
+      "featured": false
     }
   ]
 }

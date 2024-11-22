@@ -430,6 +430,34 @@
         { "size": "xl", "stock": 1 }
       ],
       "featured": false
+    },
+    {
+      "id": 20,
+      "name": "Buzo Oversize Bussy",
+      "price": 72000,
+      "image": "https://acdn.mitiendanube.com/stores/004/690/284/products/buzo-azul-delantero-baf967b634286d6d5117284830741174-1024-1024.webp",
+      "on_sale": true,
+      "sizes": [
+        { "size": "s", "stock": 5 },
+        { "size": "m", "stock": 2 },
+        { "size": "l", "stock": 2 },
+        { "size": "xl", "stock": 1 }
+      ],
+      "featured": true
+    },
+    {
+      "id": 21,
+      "name": "Buzo Oversize Love",
+      "price": 72000,
+      "image": "https://acdn.mitiendanube.com/stores/004/690/284/products/buzo-negro-trasero-6bb7cccf1a5c30b25517165743418542-1024-1024.webp",
+      "on_sale": true,
+      "sizes": [
+        { "size": "s", "stock": 5 },
+        { "size": "m", "stock": 2 },
+        { "size": "l", "stock": 2 },
+        { "size": "xl", "stock": 1 }
+      ],
+      "featured": false
     }
   ]
 }
